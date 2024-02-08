@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://media.licdn.com/dms/image/D5616AQEtL2STP2Lwbg/profile-displaybackgroundimage-shrink_350_1400/0/1695601033709?e=1712793600&v=beta&t=fXFoY7mkxr5Mz_wVBeZEtay34YICJAgfw9xJJBHra7k">
 <!--
 **taegukseok/taegukseok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
