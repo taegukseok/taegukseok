@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Taeguk.
 
-<img src="https://media.licdn.com/dms/image/D5616AQEtL2STP2Lwbg/profile-displaybackgroundimage-shrink_350_1400/0/1695601033709?e=1712793600&v=beta&t=fXFoY7mkxr5Mz_wVBeZEtay34YICJAgfw9xJJBHra7k">
+<img src="https://github.com/taegukseok/taegukseok/assets/154930905/3034430a-866a-4440-9913-af1bf7127063">
+
+![GitHub_Taeguk](https://github.com/taegukseok/taegukseok/assets/154930905/3034430a-866a-4440-9913-af1bf7127063)
 
 - 🔭 I’m currently working on various programming projects as a Computer Programming and Analysis (Co-op) student at Conestoga College.
 - 🔍 Seeking IT Co-op for Learning & Growth | May 2024 - Aug 2025 | Waterloo & London Area
