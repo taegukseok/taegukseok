@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Taeguk.
+### Hi there 👋 I'm Taeguk (Colin).
 
 <img src="https://github.com/taegukseok/taegukseok/assets/154930905/3034430a-866a-4440-9913-af1bf7127063">
 
